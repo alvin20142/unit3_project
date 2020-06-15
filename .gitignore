@@ -1,3 +1,4 @@
 unit3_env/
 .ipynb_checkpoints
 .env
+telco_data.csv
